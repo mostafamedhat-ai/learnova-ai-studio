@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Streamlit & Local Data
+.streamlit/secrets.toml
+*.db
+*.faiss
+*.pkl
+
+# Temporary Files & Logs
+*.log
+tmp/
+.temp/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS Specific
+.DS_Store
+Thumbs.db
