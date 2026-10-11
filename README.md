@@ -7,9 +7,9 @@
 Ingest YouTube videos, audio/video files, and documents — then chat with evidence-grounded answers, generate structured summaries, visual study roadmaps, and adaptive quizzes.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Frontend-Streamlit-red?logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688?logo=fastapi&logoColor=white)
-![LangChain](https://img.shields.io/badge/Orchestration-LangChain-1C3C3C)
+![LangChain](https://img.shields.io/badge/Orchestration-LangChain-green)
 ![FAISS](https://img.shields.io/badge/Vector%20Store-FAISS-0467DF)
 ![Gemini](https://img.shields.io/badge/LLM-Google%20Gemini-4285F4?logo=google&logoColor=white)
 
